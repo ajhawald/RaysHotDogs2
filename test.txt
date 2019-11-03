@@ -1,1 +1,1 @@
-test
+testing is cool. Git is cool too.
